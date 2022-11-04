@@ -1,0 +1,74 @@
+[
+  {
+    "id": "01",
+    "courseName": "HTML & CSS",
+    "instructor": "Anisul Haque",
+    "instructorImg": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "courseImg": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "offeredBy": "Coursera",
+    "description": "If you’re thinking of becoming more serious about web development, knowing HTML and CSS makes it easier for you to learn other coding languages, too. There are several coding languages which all serve different purposes, so the easier it is for you to learn them the sooner you’ll find new job opportunities. Having the knowledge to build your own website with HTML and CSS gives you the chance to stand out from the crowd with an authentic, hand-crafted representation of your business, or any business for that matter. Save money on every site you may want to build in the future, and build better websites with HTML and CSS.",
+    "level": "Beginner",
+    "length": "1-2 Months",
+    "rattings": "4.9"
+  },
+  {
+    "id": "02",
+    "courseName": "Vanila JavaScript",
+    "instructor": "Sakib haque zisan",
+    "instructorImg": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "courseImg": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "offeredBy": "Udemy",
+    "description": "There are two reasons why it’s sometimes hard to make a choice; either there are too few options to choose from, or there are too many. When it comes to programming languages, there is an embarrassment of riches, which in turn can cause mental gridlock. There’s Python, Java, JavaScript, C/CPP, PHP, Swift, C#, Ruby, Objective-C, and SQL, and that’s not even the full list! How do you choose? Now, bear in mind that as far as programmers go, there’s no such thing as knowing too many languages. A programmer with a grasp of many languages is a programmer who is highly marketable and very much in demand. Upskilling is always a smart way to go.Still, you have to start somewhere; and that should be with one of the more popular languages, one that’s experiencing unprecedented growth in demand. ",
+    "level": "Beginner",
+    "length": "1-4 Weeks",
+    "rattings": "4.8"
+  },
+  {
+    "id": "03",
+    "courseName": "Tailwins css",
+    "instructor": "Jhon doe",
+    "instructorImg": "https://thumbs.dreamstime.com/b/school-teacher-programming-laptop-student-learn-programming-language-programming-web-development-handsome-man-use-modern-153453499.jpg",
+    "courseImg": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220831183000/Tailwind-CSS-Tutorial1.png",
+    "offeredBy": "Hablu Programming",
+    "description":"This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML, Racket, and Ruby as vehicles for teaching the concepts, but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones.",
+    "level": "Beginner",
+    "length": "1-3 Months",
+    "rattings": "4.7"
+  },
+  {
+    "id": "04",
+    "courseName": "BootsTrap",
+    "instructor": "Prof. Joe Wolfe",
+    "instructorImg": "https://thumbs.dreamstime.com/b/man-working-call-centre-smiling-to-camera-close-up-man-working-call-centre-smiling-to-camera-close-up-127008687.jpg",
+    "courseImg": "https://www.drupal.org/files/project-images/bootstrap-stack.png",
+    "offeredBy": "University of Alberta",
+    "description": "If you want to learn how to create apps for Android and iOS devices, this course is right for you. This program is taught by industry-recognized experts at Meta.  Cross-platform mobile developers build and write code for apps that are hosted on mobile devices powered by multiple operating systems. They do everything from creating the app to debugging it after deployment. They design interactive and attractive user interfaces (UIs) to ensure the best possible end-user or customer experiences. ",
+    "level": "Beginner",
+    "length": "1-3 Months",
+    "rattings": "4.8"
+  },
+  {
+    "id": "05",
+    "courseName": "React js",
+    "instructor": "Jhankar mahbub",
+    "instructorImg": "https://thumbs.dreamstime.com/b/young-businesswoman-working-virtual-glasses-select-icon-software-testing-virtual-display-young-businesswoman-working-98854797.jpg",
+    "courseImg": "https://www.valuecoders.com/blog/wp-content/uploads/2016/08/react.png",
+    "offeredBy": "Programming Hero",
+    "description": "This Specialization is intented for beginning to intermediate software developers seeking to develop knowledge and skill in implementing testing techniques and tools in the development of their projects. Through four courses, you will cover black-box and white-box testing, automated testing, web & mobile testing, and formal testing theory and techniques, which will prepare to you to plan and perform effective testing of your software.  Learners will build test plans, test suites, and test analysis reports. Learners will develop properties and assertions in code to facilitate automated test generation. Learners will also create pre-conditions for methods to facilitate formal proofs of correctness.",
+    "level": "Beginner",
+    "length": "1-3 Months",
+    "rattings": "4.8"
+  },
+  {
+    "id": "06",
+    "courseName": "Graphic Design",
+    "instructor": " Mir hossen",
+    "instructorImg": "https://thumbs.dreamstime.com/b/co-worker-working-graphic-design-office-room-together-co-worker-working-graphic-design-office-room-together-130762149.jpg",
+    "courseImg": "https://img.freepik.com/free-vector/cartoon-graphic-design-landing-page_52683-70881.jpg?w=2000",
+    "offeredBy": "UNSW Sydney (The University of New South Wales)",
+    "description": "Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio.  The goal of this specialization is to equip learners with a set of transferable formal and conceptual tools for “making and communicating” in the field of graphic design. This core skill set will equip learners for formal studies in graphic design, and a starting point for further work in interface design, motion graphics, and editorial design.",
+    "level": "Beginner",
+    "length": "1-3 Months",
+    "rattings": "4.7"
+  }
+]
